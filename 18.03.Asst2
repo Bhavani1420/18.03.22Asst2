@@ -1,0 +1,11 @@
+vowels=input("enter vowles")
+while True:
+    if vowels=="a,e,i,o,u":
+        print("vowels is valid")
+        break
+    else:
+        print("vowels is invalid")
+    
+  O/P 
+  enter the password Sai123$
+password is valid
